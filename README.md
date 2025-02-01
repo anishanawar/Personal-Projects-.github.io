@@ -20,8 +20,6 @@ Here are some of the featured projects in this repository:
 1. **Warehouse SKU Data Analysis**
    - Analyzing and visualizing warehouse SKU inventory data using clustering and dimensionality reduction techniques such as KMeans and PCA.
    
-2. **QuizBuddy**
-   - An autogenerative tool that resolves the tedious task of creating quizzes and is time-efficient. It can catch errors and save the time it would take to manually fix it.
      
 ## Technologies Used
 This repository showcases a wide range of technologies depending on the project:
