@@ -26,7 +26,7 @@ Here are some of the featured projects in this repository:
 ## Technologies Used
 This repository showcases a wide range of technologies depending on the project:
 
-- **Programming Languages**: Python, JavaScript, SQL, etc.
+- **Programming Languages**: C++, Python, Qt UI, JavaScript, SQL, etc.
 - **Libraries & Frameworks**: pandas, scikit-learn, Flask, TensorFlow, etc.
 - **Databases**: MySQL, SQLite, etc.
 - **Tools**: Git, GitHub, Jupyter Notebooks, Google Colab, etc.
