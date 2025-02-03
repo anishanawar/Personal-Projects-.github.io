@@ -19,13 +19,14 @@ Here are some of the featured projects in this repository:
 
 1. **Warehouse SKU Data Analysis**
    - Analyzing and visualizing warehouse SKU inventory data using clustering and dimensionality reduction techniques such as KMeans and PCA.
-   
+2. **Pictures Color to Grayscale**
+   - Focusing on image processing, emphasizing color and grayscale images, using real-time downloads and manipulations to demonstrate basic techniques prominent in edge computing and ML.
      
 ## Technologies Used
 This repository showcases a wide range of technologies depending on the project:
 
-- **Programming Languages**: C++, Python, Qt UI, JavaScript, SQL, etc.
-- **Libraries & Frameworks**: pandas, scikit-learn, Flask, TensorFlow, etc.
+- **Programming Languages**: C++, Python, Qt UI, JavaScript, etc.
+- **Libraries & Frameworks**: pandas, scikit-learn, Flask, TensorFlow, Numpy etc.
 - **Databases**: MySQL, SQLite, etc.
 - **Tools**: Git, GitHub, Jupyter Notebooks, Google Colab, etc.
 
@@ -33,7 +34,7 @@ This repository showcases a wide range of technologies depending on the project:
 To run or contribute to these projects, you'll typically need to install the following:
 
 - Python 3.x
-- Required Python libraries (listed in the `requirements.txt` file, if applicable)
+- Required Python libraries
 - Git for version control
 
 If specific installation instructions are required for a particular project, they will be included in the respective project folder.
@@ -49,8 +50,6 @@ I welcome contributions to my projects! If you would like to contribute, please 
 3. Make your changes and commit them.
 4. Push your changes to your forked repository.
 5. Open a pull request with a description of your changes.
-
-Please ensure that your changes are well-documented and aligned with the overall project goal.
 
 ## License
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
